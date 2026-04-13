@@ -129,7 +129,7 @@ article.projets {
     margin-bottom: 40px;
 }
 
-.projet-title {
+h3.projet-title {
     font-weight: 700;
     font-size: 30px;
     margin: 0 0 15px 0;
@@ -140,7 +140,7 @@ article.projets {
     gap: 25px;
 }
 
-.projet-date {
+span.projet-date {
     background-color: #142850;
     border-radius: 16px;
     color: #FFFFFF;
@@ -266,7 +266,7 @@ footer {
         gap: 20px;
     }
 
-    .article-blog {
+    .articlke-blog {
         max-width: none;
         width: 100%;
     }
